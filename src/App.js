@@ -56,7 +56,7 @@ export default class App extends Component {
   render() {
     return (
       <div>
-        {/* <Router>
+        <Router>
           <Navbar />
           <Routes>
             <Route exact  path="/entertainment" element={<News  key="entertainment"   pageSize={6} country="in" category="entertainment" />} />
@@ -67,8 +67,8 @@ export default class App extends Component {
             <Route exact path="/technology" element={<News  key= "technology"  pageSize={6} country="in" category="technology" />} />
             <Route exact path="/business" element={<News key= "business"  pageSize={6} country="in" category="business" />} />
           </Routes>
-        </Router> */}
-        testing
+        </Router>
+      
       </div>
     );
   }
