@@ -1,4 +1,7 @@
 ![image](https://github.com/adv6273/NewsCroww/assets/90032570/1816ac0e-6d64-4733-9727-a8b88b8ef0a9)
+https://github.com/adv6273/NewsCroww/blob/main/Screenshot%20(1078).png
+https://github.com/adv6273/NewsCroww/blob/main/Screenshot%20(1080).png
+https://github.com/adv6273/NewsCroww/blob/main/Screenshot%20(1082).png
 
 # Getting Started with Create React App
 
