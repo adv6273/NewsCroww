@@ -1,3 +1,5 @@
+![image](https://github.com/adv6273/NewsCroww/assets/90032570/1816ac0e-6d64-4733-9727-a8b88b8ef0a9)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
