@@ -1,7 +1,9 @@
 ![image](https://github.com/adv6273/NewsCroww/assets/90032570/1816ac0e-6d64-4733-9727-a8b88b8ef0a9)
-https://github.com/adv6273/NewsCroww/blob/main/Screenshot%20(1078).png
-https://github.com/adv6273/NewsCroww/blob/main/Screenshot%20(1080).png
-https://github.com/adv6273/NewsCroww/blob/main/Screenshot%20(1082).png
+![image](https://github.com/adv6273/NewsCroww/assets/90032570/d2866107-5982-4d0e-8ff9-a49667f3247d)
+![image](https://github.com/adv6273/NewsCroww/assets/90032570/9f58f5ac-2573-4bd3-b8b1-178ec4702870)
+![image](https://github.com/adv6273/NewsCroww/assets/90032570/996026bd-3d45-4ffe-8006-0d973a05ec18)
+![image](https://github.com/adv6273/NewsCroww/assets/90032570/a4fd0385-1829-401b-99af-c3240ed76838)
+
 
 # Getting Started with Create React App
 
